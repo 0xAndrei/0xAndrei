@@ -17,11 +17,11 @@ class SoftwareDeveloper:
         self.projects = [
             {
                 "name": "Ghoul Discord Bot",
-                "description": "Modern discord bot coded in JavaScript, over 50 Commands included. Moderating, Fun, Games. Control everything from our Dashboard"
+                "description": "Modern discord bot coded in Python."
             },
             {
                 "name": "Statify",
-                "description": "Modern website build using NextJS, Next-Auth and Tailwindcss to check your favorite Spotify Stats"
+                "description": "Check your Spotify stats."
             }
         ]
         self.contact = {
