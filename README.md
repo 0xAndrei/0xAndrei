@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**0xAndrei/0xAndrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class SoftwareDeveloper:
+    def __init__(self):
+        self.name = "Andrei H."
+        self.skills = [
+            "Java",
+            "Javascript",
+            "Python",
+            "HTML",
+            "CSS"
+        ]
+        self.frameworks = [
+            "NextJS",
+            "TailwindCSS"
+        ]
+        self.projects = [
+            {
+                "name": "Ghoul Discord Bot",
+                "description": "Modern discord bot coded in JavaScript, over 50 Commands included. Moderating, Fun, Games. Control everything from our Dashboard"
+            },
+            {
+                "name": "Statify",
+                "description": "Modern website build using NextJS, Next-Auth and Tailwindcss to check your favorite Spotify Stats"
+            }
+        ]
+        self.contact = {
+            "email": "me@andrei.cx"
+        }
+ ```
