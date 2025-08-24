@@ -19,6 +19,7 @@
 
 ### 🕶️ projects
 
+**ogarchive.com** — Share your Minecraft Screenshots with OGs, MineconCapes or Rare accounts.
 **xanax.dev dashboard** — all‑seeing admin panel for OSINT and other shit  
 **minecraft autosecurer** — secures your Minecraft accounts automatically  
 **minecraft ticket bot** — fast, no‑nonsense support ticket automation  
